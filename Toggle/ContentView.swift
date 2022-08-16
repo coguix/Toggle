@@ -8,10 +8,18 @@
 import SwiftUI
 
 struct ContentView: View {
-    var body: some View {
-        Text("Hello, world!")
-            .padding()
-    }
+    @State private var showGreeting = false
+
+       var body: some View {
+           VStack {
+               Toggle("Show welcome message", isOn: $showGreeting).padding()
+
+               if showGreeting {
+                   Text("Hello World!")
+               }
+           }
+       }
+      
 }
 
 struct ContentView_Previews: PreviewProvider {
