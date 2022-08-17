@@ -16,6 +16,7 @@ struct ContentView: View {
 
                if showGreeting {
                    Text("Hello World!")
+                   Text("Helper text dude!")
                }
            }
        }
