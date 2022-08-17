@@ -12,6 +12,7 @@
 		7F22FACF28AC1E580094B6D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F22FACE28AC1E580094B6D6 /* Assets.xcassets */; };
 		7F22FAD228AC1E590094B6D6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F22FAD128AC1E590094B6D6 /* Preview Assets.xcassets */; };
 		7F22FAD928AD63550094B6D6 /* SuperTextTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F22FAD828AD63550094B6D6 /* SuperTextTestView.swift */; };
+		7F22FADB28AD65160094B6D6 /* AwsomeTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F22FADA28AD65160094B6D6 /* AwsomeTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		7F22FACE28AC1E580094B6D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F22FAD128AC1E590094B6D6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7F22FAD828AD63550094B6D6 /* SuperTextTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperTextTestView.swift; sourceTree = "<group>"; };
+		7F22FADA28AD65160094B6D6 /* AwsomeTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AwsomeTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				7F22FACA28AC1E580094B6D6 /* ToggleApp.swift */,
 				7F22FACC28AC1E580094B6D6 /* ContentView.swift */,
 				7F22FAD828AD63550094B6D6 /* SuperTextTestView.swift */,
+				7F22FADA28AD65160094B6D6 /* AwsomeTextView.swift */,
 				7F22FACE28AC1E580094B6D6 /* Assets.xcassets */,
 				7F22FAD028AC1E590094B6D6 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				7F22FAD928AD63550094B6D6 /* SuperTextTestView.swift in Sources */,
 				7F22FACD28AC1E580094B6D6 /* ContentView.swift in Sources */,
 				7F22FACB28AC1E580094B6D6 /* ToggleApp.swift in Sources */,
+				7F22FADB28AD65160094B6D6 /* AwsomeTextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
